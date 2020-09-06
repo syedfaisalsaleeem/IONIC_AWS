@@ -1,0 +1,55 @@
+.starter {
+  margin-top: 100px;
+  height: 100%;
+}
+.starter img {
+  display: block;
+  margin: auto;
+}
+.starter .title {
+  text-align: center;
+  letter-spacing: 0.15rem;
+}
+
+.starter .title h5 {
+  font-weight: bolder;
+}
+
+.starter .content {
+  text-align: center;
+  font-size: 13px;
+}
+
+.starter .sub-content {
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+.starter .sub-content p {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: -20px;
+}
+.starter .sub-content i {
+  margin-left: 1rem;
+  position: absolute;
+  top: 9px;
+  font-size: 12px;
+}
+
+.starter .btn {
+  text-transform: capitalize;
+  height: 45px;
+  width: 100%;
+}
+
+.starter .last-content {
+  font-size: 15px;
+  text-align: center;
+}
+
+.starter .last-content a {
+  font-weight: bold;
+  color: #000;
+}

@@ -1,0 +1,16 @@
+.contBtn {
+  width: 160px;
+  height: 45px;
+  border-radius: 25px !important;
+  border: none;
+  background-color: var(--ion-color-primary);
+  color: #fff;
+  display: block;
+  margin: auto;
+}
+
+
+.contBtn:disabled{
+  opacity: 0.5;
+  cursor: default;
+}

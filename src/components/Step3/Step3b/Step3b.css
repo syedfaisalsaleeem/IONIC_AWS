@@ -1,0 +1,35 @@
+.Step3b {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.Step3b .titleOtp {
+  text-shadow: 0 1px #000;
+}
+
+.Step3b .lastTxtOtp {
+    margin-top: 2rem;
+}
+
+.Step3b .lastTxtOtp a {
+    color: #000;
+    font-weight: bold;
+}
+.Step3b .inputs {
+  margin: 1rem 0;
+}
+
+.Step3b .inputs div div input {
+  border: none;
+  border-bottom: 2px solid #dfdfdf;
+  font-size: 60px;
+  margin: 0 0.5rem;
+}
+
+.Step3b .inputs div div input:focus {
+  border-bottom: 2px solid var(--ion-color-primary);
+  outline: none
+}

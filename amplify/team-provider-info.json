@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ionicaws-dev-160647-authRole",
+            "UnauthRoleArn": "arn:aws:iam::396718071706:role/amplify-ionicaws-dev-160647-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::396718071706:role/amplify-ionicaws-dev-160647-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-ionicaws-dev-160647-deployment",
+            "UnauthRoleName": "amplify-ionicaws-dev-160647-unauthRole",
+            "StackName": "amplify-ionicaws-dev-160647",
+            "StackId": "arn:aws:cloudformation:us-east-1:396718071706:stack/amplify-ionicaws-dev-160647/43af39b0-eec0-11ea-93a6-0a95249d7817",
+            "AmplifyAppId": "d1ozag53y6v3af"
+        },
+        "categories": {
+            "auth": {
+                "ionicaws5326e3ab": {}
+            }
+        }
+    }
+}

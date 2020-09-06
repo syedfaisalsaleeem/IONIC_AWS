@@ -1,0 +1,17 @@
+.Step2b {
+  position: relative;
+  margin: auto;
+}
+
+.Step2b .backBtn1 {
+  position: absolute;
+  top: 0.5%;
+  left: 2%;
+  background: transparent;
+}
+
+.Step2b .backBtn2 {
+  position: absolute;
+  top: 4%;
+  background: transparent;
+}

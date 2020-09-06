@@ -1,0 +1,22 @@
+.Step3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Step3 .contentSent > * {
+    margin: 0;
+    text-align: center;
+}
+
+.Step3 .sentField {
+    width: 16rem;
+    margin-top: 2rem;
+}
+
+.Step3 .sentField> *:first-child {
+    margin-right: 1rem;
+    font-size: 1rem;
+    color: #aaa;
+}

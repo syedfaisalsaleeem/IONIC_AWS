@@ -1,0 +1,61 @@
+.Contact .contactHeader {
+  height: 40px;
+  width: 100%;
+  background: #f8f9fc;
+}
+.Contact .contactTitle h1 {
+  text-align: center;
+  text-shadow: 0 1px #000;
+}
+
+.Contact .backBtn {
+  display: flex;
+  margin-top: 1rem;
+  align-items: center;
+}
+
+.Contact p {
+  font-size: 14px;
+}
+
+.Contact .contactSelect {
+  width: 100%;
+  margin-top: 0.3rem;
+}
+
+.Contact ion-select::part(text) {
+  margin-right: 10px;
+}
+
+.Contact .label {
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  padding-top: 0.1rem;
+}
+
+.Contact .contactTxtArea textarea {
+  height: 150px;
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #dfdfdf;
+  padding: 5px 15px;
+  resize: none;
+  outline: none;
+}
+
+.Contact .contactTxtArea textarea::placeholder {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.Contact .contactBtn {
+   position: relative;
+}
+
+.Contact .contactBtn button{
+  width: 100px;
+  height: 30px;
+  border-radius: 25px;
+ position: absolute;
+ right: 8%;
+}

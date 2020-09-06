@@ -1,0 +1,39 @@
+.signUp {
+  height: 100%;
+}
+
+.signUp .addBtn {
+  background: url("../../assets/▪︎\ Bitmap.png") center center/cover no-repeat;
+  width: 60px;
+  height: 57px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.signUp .addBtn i {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.signUp .errMessage {
+  font-size: 12px;
+  margin: 0.3rem 0;
+}
+
+.signUp .errorBox {
+  position: relative;
+}
+
+.signUp .errorBox .crossIcon {
+  position: absolute;
+  right: 21%;
+  top: -220%;
+  z-index: 1;
+}
+
+.signUp .errorBox .crossIcon i {
+  color: #e53935;
+}

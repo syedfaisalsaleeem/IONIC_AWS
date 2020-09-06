@@ -1,0 +1,23 @@
+.Step5 {
+    text-align: center;
+}
+
+.Step5 .verifyTitle h3 {
+    text-shadow: 0 1px #000;
+}
+.Step5 .verifyImg img {
+  display: block;
+  margin: auto;
+}
+
+.Step5 .verifyContent h6{
+    line-height: 1.5;
+    margin-bottom: 2rem;
+}
+
+.Step5 .btn {
+    width: 120px;
+    height: 40px;
+    border-radius: 25px;
+}
+

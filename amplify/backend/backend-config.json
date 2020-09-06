@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"ionicaws5326e3ab": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

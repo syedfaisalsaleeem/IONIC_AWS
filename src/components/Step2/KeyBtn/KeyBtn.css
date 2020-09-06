@@ -1,0 +1,13 @@
+.KeyBtn {
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    background: #EFEFF4 !important;
+    border-radius: 50% !important;
+    margin: 0 1rem;
+}
+
+.KeyBtn p {
+    font-size: 36px;
+    color: #000;
+}
